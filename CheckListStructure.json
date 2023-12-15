@@ -1,0 +1,17 @@
+{
+  "checklist": [
+    {
+      "task": "Задача 1",
+      "completed": false
+    },
+    {
+      "task": "Задача 2",
+      "completed": true
+    },
+    {
+      "task": "Задача 3",
+      "completed": false
+    }
+  ]
+}
+
